@@ -4,7 +4,7 @@ Private, offline expense tracker for India. It reads your bank and UPI SMS on yo
 
 ## Download
 
-**[Download PaisaPlanner-v3.2.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.2.apk)** (about 3 MB, Android 8.0+)
+**[Download PaisaPlanner-v3.3.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.3.apk)** (about 3 MB, Android 8.0+)
 
 ## Install
 
@@ -22,6 +22,7 @@ Private, offline expense tracker for India. It reads your bank and UPI SMS on yo
 - No-spend streaks and habits
 - Lent and borrowed tracker
 - Money Story monthly recap
+- Import from bank emails: share an email to the app, or turn on email alerts (optional, on-device)
 - Fingerprint lock, light and dark themes
 
 ## Privacy
