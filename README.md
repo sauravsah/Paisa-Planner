@@ -4,7 +4,11 @@ Private, offline expense tracker for India. It reads your bank and UPI SMS on yo
 
 ## Download
 
-**[Download PaisaPlanner-v3.4.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.4.apk)** (about 34 MB, Android 8.0+). Installs over earlier versions without losing data.
+**[Download PaisaPlanner-v3.4-arm64.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.4-arm64.apk)** (about 16 MB, for most phones from 2017 onward, Android 8.0+)
+
+Older or unusual phone? Use the full build: [PaisaPlanner-v3.4.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.4.apk) (about 34 MB, works on every phone).
+
+Both install over earlier versions without losing data.
 
 ## Install
 
