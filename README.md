@@ -89,9 +89,15 @@ There is a second download, the **SMS edition**, that reads your bank SMS by its
 
 Both editions are the same app with the same signing key. You can install one over the other and **your data stays**. If you switch back to the normal version, SMS auto-tracking stops but everything you saved is kept.
 
-**1. Pause Play Protect while you install.** Play Store › your profile photo › Play Protect › settings (gear) › turn off **Scan apps with Play Protect**.
+**Saw "App blocked to protect your device" with only an OK button?** That's Play Protect, and tapping OK does nothing else. Pause it as shown below, then open the APK again from your Downloads. There's no link that can open this setting for you (GitHub only allows normal web links), so it's 5 taps in the Play Store:
 
-![SMS edition step 1: turn off Scan apps with Play Protect while installing](docs/sms-step-1.png)
+<p align="center">
+  <img src="docs/pause-play-protect.png" alt="Pause Play Protect: open Play Store, tap your profile icon, tap Play Protect, tap the gear at the top right, turn off Scan apps with Play Protect, install, then turn it back on" width="420">
+</p>
+
+> **Turn "Scan apps with Play Protect" back on as soon as the app is installed.** Same place: Play Store › profile icon › Play Protect › ⚙.
+
+**1. Pause Play Protect while you install.** Play Store › your profile icon › **Play Protect** › **⚙** (top right) › turn off **Scan apps with Play Protect** (the picture above).
 
 **2. Install the SMS edition, then allow restricted settings.** Download [PaisaPlanner-v3.6.0-SMS-edition-arm64.apk](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0-SMS-edition-arm64.apk) (about 16 MB; if it doesn't install, [the universal one](https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0-SMS-edition.apk), about 35 MB) and install it. Then long-press the app icon › **App info** › **⋮** (top right) › **Allow restricted settings**, and confirm with your PIN or fingerprint. On Samsung and Xiaomi the ⋮ item can be somewhere else: if you don't see it, open **Permissions › SMS** first, tap the greyed option, then come back.
 
