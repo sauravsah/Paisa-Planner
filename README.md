@@ -1,51 +1,72 @@
 <p align="center">
-  <img src="docs/logo-plan-ring.png" alt="Paisa Planner logo" width="420">
+  <img src="docs/logo-plan-ring.png" alt="Paisa Planner logo" width="300">
 </p>
 
 <h1 align="center">Paisa Planner</h1>
 
-<p align="center"><b>Free, private money planner for India. Works offline — your data never leaves your phone.</b></p>
+<p align="center"><b>Free, private money planner for India. Works offline.</b></p>
 
 <p align="center">
-  <a href="https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0-arm64.apk"><img src="docs/download-button.png" alt="Download Paisa Planner for Android (v3.6.0, about 16 MB)" width="340"></a>
+  <a href="https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0-arm64.apk"><img src="docs/download-button.png" alt="Click here to download Paisa Planner (free, v3.6.0, about 16 MB)" width="400"></a>
+</p>
+
+<p align="center"><sub>Didn't work? <a href="https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0.apk">Try this one</a> (works on every phone, about 34 MB).</sub></p>
+
+## Install in 4 taps
+
+<p align="center">
+  <a href="https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0-arm64.apk"><img src="docs/download-button.png" alt="Click here to download Paisa Planner (free, v3.6.0, about 16 MB)" width="400"></a>
 </p>
 
 <p align="center">
-  For Android phones (Android 8 or newer). This is the right file for almost every phone.<br>
-  <sub>Didn't work? <a href="https://github.com/sauravsah/Paisa-Planner/raw/main/PaisaPlanner-v3.6.0.apk">Try this one instead</a> (works on every phone, about 34 MB).</sub>
+  <img src="docs/how-to-install.png" alt="1 Tap Download, 2 Open the file, 3 Allow this source, 4 Install then Open" width="560">
 </p>
 
----
+1. Tap the green button on your Android phone.
+2. Open the downloaded file from your notifications.
+3. If your phone asks, turn on **Allow from this source**.
+4. Tap **Install**, then **Open**. Done!
 
-## How to install (2 minutes)
+If Google Play Protect says **"Scan app"**, tap **Install** (or Scan app). Both are fine.
 
-Paisa Planner is not on the Play Store yet, so you install it from this page. You download one file and open it. That's it.
+<p align="center">
+  <img src="docs/play-protect-tip.png" alt="Seen the Play Protect Scan app box? Tap Install. It's safe." width="360">
+</p>
 
-**1. Tap the green Download button above.** Do this on your Android phone.
+## Add a bank SMS in 2 taps
 
-![Step 1: tap the green Download button](docs/install-step-1.png)
+<p align="center">
+  <img src="docs/add-bank-sms.png" alt="1 Long-press the bank SMS, 2 tap the three dots or Share, 3 Add to Paisa Planner, then the spend is saved" width="560">
+</p>
 
-**2. Open the file you downloaded.** Tap it in your notifications, or open the Files app and look in Downloads.
+No SMS permission needed. You check the amount, then tap Add.
 
-![Step 2: open the downloaded file from notifications or the Files app](docs/install-step-2.png)
+## Screenshots
 
-**3. If your phone says "For your security…", allow it once.** Tap **Settings**, turn on **Allow from this source**, then press back.
+<table>
+  <tr>
+    <td><img src="docs/screen-1.jpg" alt="Spends track themselves" width="200"></td>
+    <td><img src="docs/screen-2.jpg" alt="Budgets that follow your salary" width="200"></td>
+    <td><img src="docs/screen-3.jpg" alt="Save on purpose" width="200"></td>
+    <td><img src="docs/screen-4.jpg" alt="Private by design" width="200"></td>
+  </tr>
+</table>
 
-![Step 3: tap Settings, turn on Allow from this source, go back](docs/install-step-3.png)
+<details>
+<summary><b>Is it safe?</b></summary>
 
-**4. Tap Install, then Open. Done!** Setup takes 2 minutes and asks for no permissions.
-
-If Google Play Protect shows **"Scan app"** or **"Send for a security check"**, tap **Scan** (or **Install**). This version asks for no sensitive permissions, so it installs normally. You don't need to turn Play Protect off.
-
-![Step 4: tap Install, then Open](docs/install-step-4.png)
-
-### Is this safe?
+<br>
 
 - The app has **no internet permission**. It can't send your data anywhere, even if it wanted to.
 - This download asks for **no sensitive permissions**: no SMS, no notification access, no accessibility. That's why Play Protect lets it install.
 - The download is the same file as on the [release page](https://github.com/sauravsah/Paisa-Planner/releases/tag/v3.6.0), signed with the same key as every version since v2.0.
 
-### Updating later
+</details>
+
+<details>
+<summary><b>How to update</b></summary>
+
+<br>
 
 When a new version comes out, come back to this page, download the new file and open it. Tap **Update** (or **Install**). It installs over the old app and **your data stays**. No need to uninstall first.
 
@@ -53,15 +74,12 @@ Settings › Check for updates opens the latest version.
 
 <sub>Optional: the free <a href="https://github.com/ImranR98/Obtainium">Obtainium</a> app can watch <code>github.com/sauravsah/Paisa-Planner</code> and tell you when a new version is out.</sub>
 
----
+</details>
 
-## Add a bank SMS in 2 taps
+<details>
+<summary><b>Want automatic SMS tracking? (SMS edition)</b></summary>
 
-You don't need to give the app SMS access. In your Messages app, **long-press the bank SMS › tap ⋮ (or Share) › Add to Paisa Planner**. You see the amount and the shop, check them, and tap Add. You can also copy any bank SMS or email and use **Paste a bank message** in the app.
-
----
-
-## Want automatic SMS tracking? (SMS edition)
+<br>
 
 There is a second download, the **SMS edition**, that reads your bank SMS by itself. Before you pick it, here's the honest part:
 
@@ -83,27 +101,19 @@ Both editions are the same app with the same signing key. You can install one ov
 
 ![SMS edition step 3: allow SMS, then turn Play Protect back on](docs/sms-step-3.png)
 
----
+</details>
 
-## Screenshots
+<details>
+<summary><b>All features</b></summary>
 
-<table>
-  <tr>
-    <td><img src="docs/screen-1.jpg" alt="Spends track themselves" width="200"></td>
-    <td><img src="docs/screen-2.jpg" alt="Budgets that follow your salary" width="200"></td>
-    <td><img src="docs/screen-3.jpg" alt="Save on purpose" width="200"></td>
-    <td><img src="docs/screen-4.jpg" alt="Private by design" width="200"></td>
-  </tr>
-</table>
-
-## What it does
+<br>
 
 ![Paisa Planner: bank SMS in, budgets out](docs/banner.jpg)
 
 - **Add a spend in seconds.** Type or say "200 vegetables", scan a bill, or paste a bank message. Hindi and Hinglish work too ("do sau sabzi").
 - **Bank SMS in 2 taps, no SMS permission.** Long-press a bank SMS › ⋮ › **Add to Paisa Planner**, or Share it to the app, or copy and paste it. You check it before anything is saved.
 - **Better receipt scan.** It finds the Grand Total on your bill and fills the form, right on your phone.
-- **Automatic SMS tracking, if you want it,** in the separate SMS edition (see above). OTPs and personal messages are ignored.
+- **Automatic SMS tracking, if you want it,** in the separate SMS edition (see "Want automatic SMS tracking?"). OTPs and personal messages are ignored.
 - **Budgets that follow your salary day,** with a simple 50/30/20 starting plan and a gentle warning before you overspend.
 - **Your own categories.** Add or edit categories in each section (Needs, Wants, Savings & investments), with your own name and emoji.
 - **Save on purpose:** savings goals, a 48-hour "park it" wishlist for impulse buys, and reminders for bills and subscriptions.
@@ -114,15 +124,16 @@ Both editions are the same app with the same signing key. You can install one ov
 - **English and Hindi.**
 - **Feedback and updates in Settings:** a short feedback form, and **Check for updates** opens the latest version.
 
-## Privacy
+</details>
+
+<details>
+<summary><b>Privacy</b></summary>
+
+<br>
 
 Everything stays on your phone. No account, no sign-up, no ads, no internet permission. The clipboard is read only when you tap **Paste from clipboard**. Privacy policy: https://docs.google.com/document/d/1iUYxkjJ_4VVWXWgGWBGLeUpQRzRbcW5OXN6XJLUKoT0/edit?usp=sharing
 
-## Feedback and support
-
-Found a problem or want a feature? [Share it in this short form](https://docs.google.com/forms/d/e/1FAIpQLSfLpaZU3By-WU9KWcMSKTAuoew2hy2qFcAo1fQ6s-UV0EHFrQ/viewform) (no sign-in needed).
-
-Support: sauravsahbrj@gmail.com
+</details>
 
 <details>
 <summary><b>For developers</b></summary>
@@ -152,3 +163,7 @@ a732127942f9dd2bc2f8d57fd7140578313da30bfd84e31d32d80639e145d807  PaisaPlanner-v
 Check a download with `apksigner verify --print-certs PaisaPlanner-v3.6.0-arm64.apk` (Android build-tools).
 
 </details>
+
+---
+
+<p align="center">Problem or idea? <a href="https://docs.google.com/forms/d/e/1FAIpQLSfLpaZU3By-WU9KWcMSKTAuoew2hy2qFcAo1fQ6s-UV0EHFrQ/viewform">Tell us in this short form</a> · Support: sauravsahbrj@gmail.com</p>
